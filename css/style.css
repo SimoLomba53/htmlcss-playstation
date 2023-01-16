@@ -1,5 +1,21 @@
 .sfondo{
     height:80vh;
-    background-image: url(/img/returnal-listing-thumb-01-ps5.jpg);
+    background-image: url(/img/jumbo-bg.png);
     background-size: cover;
+}
+
+.returnal img{
+    width:100%;
+}
+
+.ratchet img{
+    width:100%;
+}
+
+.ps5-big-photo img{
+    width:100%;
+}
+
+.ps5-tools img{
+    width:8rem;
 }
