@@ -12,15 +12,28 @@
     top: 40vh
 }
 
-
 .returnal img{
     width:100%;
     border-radius:25px;
 }
 
+.returnal img:hover{
+    position: relative;
+    bottom:20px;
+    transition-duration:2s;
+    transition-timing-function: linear;
+}
+
 .ratchet img{
     width:100%;
     border-radius:25px;
+}
+
+.ratchet img:hover {
+    position: relative;
+    bottom: 20px;
+    transition-duration: 2s;
+    transition-timing-function: linear;
 }
 
 .ps5-big-photo img{
