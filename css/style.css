@@ -1,19 +1,37 @@
+
+
 .sfondo{
     height:80vh;
     background-image: url(/img/jumbo-bg.png);
     background-size: cover;
 }
 
+.ret-logo {
+    width: 15rem;
+    position: absolute;
+    top: 40vh
+}
+
+
 .returnal img{
     width:100%;
+    border-radius:25px;
 }
 
 .ratchet img{
     width:100%;
+    border-radius:25px;
 }
 
 .ps5-big-photo img{
     width:100%;
+}
+
+.ps5-tools {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
 
 .ps5-tools img{
@@ -26,12 +44,20 @@
     background-size: cover;
 }
 
+.takes-logo {
+    width: 15rem;
+    position: relative;
+    bottom: 20%
+}
+
 .tonyhawk img{
     width:100%;
+    border-radius: 10%;
 }
 
 .bandicoot img{
     width:100%;
+    border-radius: 10%;
 }
 
 .ps4-tools img{
@@ -62,3 +88,11 @@
     width:100%;
 }
 
+.btn {
+    border-radius: 100px
+}
+
+button {
+    border-radius: 100px;
+    padding: 5px;
+}
