@@ -51,6 +51,10 @@
     width:8rem;
 }
 
+.ps5-tools:hover{ 
+    border-bottom: 3px solid rgb(0, 98, 255);
+}
+
 .sfondo2{
     height: 80vh;
     background-image: url(/img/it-takes-two-hero-banner-desktop.jpg);
